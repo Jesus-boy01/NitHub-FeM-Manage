@@ -267,7 +267,7 @@ footer {
 .footer-nav-1 a, .footer-nav-2 a {
     text-decoration: none;
     color: #fff;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
 }
 
 .footer-nav-1 a:hover, .footer-nav-2 a:hover {
@@ -293,7 +293,7 @@ footer {
 input[type="email"] {
     border-radius: 3em;
     padding: 1.3em 1.7em;
-    font-size: 1.2rem;
+    font-size: 1rem;
 }
 
 .footer-submit button {
@@ -302,7 +302,7 @@ input[type="email"] {
     background-color: #F25F3A;
     padding: 1.3em 2.2em;
     border-radius: 3em;
-    font-size: 1.2rem;
+    font-size: 1rem;
     font-weight: bold;
 }
 
@@ -312,5 +312,5 @@ input[type="email"] {
 }
 
 .footer-copyright p {
-    font-size: 1.3rem;
+    font-size: 1.1rem;
 }
