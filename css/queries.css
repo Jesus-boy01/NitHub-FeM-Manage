@@ -31,9 +31,6 @@
     .main-img {
         width: 100%;
     }
-    .main-img img {
-        width: 100%;
-    }
     /* manage-info section */
     .manage-info-section {
         flex-direction: column;
@@ -128,9 +125,6 @@
     .main-img {
         width: 100%;
     }
-    .main-img img {
-        width: 100%;
-    }
     /* manage-info section */
     .manage-info-section {
         flex-direction: column;
@@ -196,9 +190,6 @@
     }
     .main-img {
         width: 51%;
-    }
-    .main-img img {
-        width: 90%;
     }
     /* manage-info section */
     .manage-info-text, .manage-info-list {

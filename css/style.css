@@ -127,6 +127,10 @@ p {
     margin-top: 2.5em;
 }
 
+.main-img img {
+    max-width: 100%;
+}
+
 /* manage info */
 
 #manage-info-section {
