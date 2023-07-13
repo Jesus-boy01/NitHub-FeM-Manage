@@ -1,0 +1,221 @@
+@media (max-width: 374px){
+    /* setup */
+    p {
+        font-size: 1rem;
+    }
+    .get-started, .get-started-reverse {
+        padding: 0.7em;
+    }
+    .icons {
+        width: 2rem;    
+    }
+    /* header section */
+    .navigations {
+        display: none;
+    }
+    /* main section */
+    .main-section {
+        flex-direction: column;
+    }
+    .main-text {
+        width: 100%;
+        margin-bottom: 5em;
+        text-align: center;
+    }
+    .main-text-head {
+        font-size: 1.4rem;
+    }
+    .main-text-body {
+        width: 100%;
+    }
+    .main-img {
+        width: 100%;
+    }
+    .main-img img {
+        width: 100%;
+    }
+    /* manage-info section */
+    .manage-info-section {
+        flex-direction: column;
+    }
+    .manage-info-text {
+        width: 100%;
+        margin-bottom: 5em;
+        text-align: center;
+    }
+    .manage-info-head {
+        font-size: 1.3rem;
+    }
+    .manage-info-body {
+        width: 100%;
+        margin-top: 2em;
+    }
+    .manage-info-list {
+        width: 100%;
+    }
+    .info-text {
+        width: 100%;
+    }
+    /* cta section */
+    .cta-section {
+        flex-direction: column;
+    }
+    .cta-text {
+        width: 100%;
+        margin-bottom: 3em;
+        text-align: center;
+    }
+    .cta-text h3 {
+        font-size: 1.5rem;
+    }
+    /* footer section */
+    .footer-section {
+        flex-direction: column;
+    }
+    .footer-info {
+        width: 100%;
+        margin-bottom: 6em;
+    }
+    .footer-info-img img {
+        width: 10em;
+    }
+    .footer-navs {
+        width: 85%;
+    }
+    .footer-info-socials {
+        justify-content: start;
+        margin-top: 4em;
+    }
+    .facebook-social, .youtube-social, .twitter-social, .pinterest-social, .instagram-social {
+        margin-right: 1.3em;
+    }  
+    .footer-navs p a {
+        font-size: 1.1rem;
+    }
+    input[type="email"],
+    .footer-submit button {
+        font-size: 0.8rem;
+    }
+    .footer-copyright p {
+        font-size: 1rem;
+    }
+}
+
+@media (min-width: 375px) and (max-width: 900px){
+    /* setup */
+    .icons {
+        width: 2rem;    
+    }
+    /* header section */
+    .navigations {
+        display: none;
+    }
+    /* main section */
+    .main-section {
+        flex-direction: column;
+    }
+    .main-text {
+        width: 100%;
+        margin-bottom: 5em;
+        text-align: center;
+    }
+    .main-text-head {
+        font-size: 1.8rem;
+    }
+    .main-text-body {
+        width: 100%;
+    }
+    .main-img {
+        width: 100%;
+    }
+    .main-img img {
+        width: 100%;
+    }
+    /* manage-info section */
+    .manage-info-section {
+        flex-direction: column;
+    }
+    .manage-info-text {
+        width: 100%;
+        margin-bottom: 5em;
+        text-align: center;
+    }
+    .manage-info-body {
+        width: 100%;
+        margin-top: 2em;
+    }
+    .manage-info-list {
+        width: 100%;
+    }
+    .info-text {
+        width: 100%;
+    }
+    /* cta section */
+    .cta-text h3 {
+        font-size: 1.8rem;
+    }
+    /* footer section */
+    .footer-section {
+        flex-direction: column;
+    }
+    .footer-info {
+        width: 100%;
+        margin-bottom: 6em;
+    }
+    .footer-info-socials {
+        justify-content: start;
+        margin-top: 4em;
+    }
+    .facebook-social, .youtube-social, .twitter-social, .pinterest-social, .instagram-social {
+        margin-right: 2em;
+    }  
+    .footer-navs p a {
+        font-size: 1.1rem;
+    }
+    input[type="email"],
+    .footer-submit button {
+        font-size: 0.8rem;
+    }
+    .footer-copyright p {
+        font-size: 1rem;
+    }
+}
+
+@media (min-width: 900px) and (max-width: 1024px){
+    /* setup */
+    .icons {
+        width: 2rem;    
+    }
+    /* header section */
+    .navigations {
+        display: none;
+    }
+    /* main section */
+    .main-text {
+        width: 49%;
+    }
+    .main-img {
+        width: 51%;
+    }
+    .main-img img {
+        width: 90%;
+    }
+    /* manage-info section */
+    .manage-info-text, .manage-info-list {
+        width: 49%;
+    }
+    /* footer section */
+    .footer-info-img img {
+        width: 10em;
+    }
+    .footer-navs p a {
+        font-size: 1.1rem;
+    }
+    input[type="email"],
+    .footer-submit button {
+        font-size: 0.8rem;
+    }
+    .footer-copyright p {
+        font-size: 1rem;
+    }
+}
