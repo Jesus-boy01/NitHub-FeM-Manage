@@ -149,6 +149,7 @@ p {
     font-size: 1.7rem;
     color: #242D52;
     font-weight: bold;
+    margin-bottom: 0.6em;
 }
 
 .manage-info-body {
@@ -298,6 +299,7 @@ input[type="email"] {
     border-radius: 3em;
     padding: 1.3em 1.7em;
     font-size: 1rem;
+    border: none;
 }
 
 .footer-submit button {
@@ -308,6 +310,7 @@ input[type="email"] {
     border-radius: 3em;
     font-size: 1rem;
     font-weight: bold;
+    border: none;
 }
 
 .footer-copyright {
